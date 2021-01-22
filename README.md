@@ -16,10 +16,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ductnn.github.io" width="22px" src="https://avatars.githubusercontent.com/u/22121217?s=400&u=b331f35d43e369366b36162c77b89437a83b7ca3&v=4" />][website]
+[<img align="left" alt="ductnn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ductnn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ductnn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -46,7 +46,6 @@
 <br />
 
 [website]: https://ductnn.github.io
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/ductnn
+[twitter]: https://twitter.com/ductn4
 [instagram]: https://instagram.com/ductn4
 [linkedin]: https://linkedin.com/in/ductnn
