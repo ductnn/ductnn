@@ -1,14 +1,13 @@
 ### Hi there, I'm Ductn [ductnn][website] 👋
 
-[![Website](https://img.shields.io/website?label=ductnn.github.io&style=for-the-badge&url=https://ductnn.github.io)](https://ductnn.github.io)
+[![Website](https://img.shields.io/website?label=ductnn.github.io&style=for-the-badge&url=https://ductn.info)](https://ductn.info)
 
 ## I'm a Researcher and Cloud Engineer !!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar
 
 ### Spotify Playing 🎧
 
@@ -45,7 +44,7 @@
 <br />
 <br />
 
-[website]: https://ductnn.github.io
+[website]: https://ductn.info
 [twitter]: https://twitter.com/ductn4
 [instagram]: https://instagram.com/ductn4
 [linkedin]: https://linkedin.com/in/ductnn
