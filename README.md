@@ -1,6 +1,6 @@
 ### Hi there, I'm Ductn [ductnn][website] 👋
 
-[![Website](https://img.shields.io/website?label=ductn.style=for-the-badge&url=https://ductn.info)](https://ductn.info)
+[![Website](https://img.shields.io/website?label=ductn.info&style=for-the-badge&url=https://ductn.info)](https://ductn.info)
 
 ## I'm a Researcher and Cloud Engineer !!!
 
