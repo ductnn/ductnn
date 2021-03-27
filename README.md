@@ -1,4 +1,4 @@
-### Hi there, I'm Ductn [ductnn][website] 👋
+### Hi there, I'm [Ductn][website] 👋
 
 [![Website](https://img.shields.io/website?label=ductn.info&style=for-the-badge&url=https://ductn.info)](https://ductn.info)
 
