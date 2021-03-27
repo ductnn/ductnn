@@ -15,7 +15,7 @@
 🎧 &nbsp;Fun fact: I love to draw and play guitar. \
 📄 &nbsp;Please have a look at my [Résumé](https://ductn.info/pdf/ductn_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img align="right" alt="GIF" src="./img/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./img/code.gif" width="320" height="210" />
 
 ### 🛠 &nbsp;Languages and Tools:
 
