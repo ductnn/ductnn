@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img align="center" src="./img/meow.gif">
+<img align="right" src="./img/meow.gif">
 
 <img alt="Docker" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/> &nbsp;Devops/Cloud Engineer. \
 <img alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> &nbsp;Python Developer. \
