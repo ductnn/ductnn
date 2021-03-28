@@ -1,4 +1,4 @@
-![Background](img/bg.jpg)
+![Background](img/ductn.jpg)
 
 ### Hi there, I'm [Ductn][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
