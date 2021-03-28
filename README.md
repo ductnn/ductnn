@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<p>
+<p align="center">
     <img src="./img/here.png" width="500" height="300">
     <img src="./img/meow.gif">
 </p>
@@ -16,7 +16,7 @@
 <img alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp;NodeJS Developer. \
 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects. \
 🎧 &nbsp;Fun fact: I love to draw and play guitar. \
-📄 &nbsp;Please have a look at my [Résumé](https://ductn.info/pdf/ductn_CV.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Look at my [Résumé](https://ductn.info/pdf/ductn_CV.pdf) for more details about me.
 
 <img align="right" alt="GIF" src="./img/code.gif" width="320" height="210" />
 
@@ -45,13 +45,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-    <a href="https://github.com/AVS1508">
+    <a href="https://github.com/ductnn">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ductnn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ductnn&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with me:
+### 🐱 &nbsp;Connect with me:
 
 [<img align="left" alt="ductnn.github.io" width="22px" src="https://avatars.githubusercontent.com/u/22121217?s=400&u=b331f35d43e369366b36162c77b89437a83b7ca3&v=4" />][website]&nbsp;
 [<img align="left" alt="ductnn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
