@@ -1,6 +1,6 @@
 ![Background](img/ductn.jpg)
 
-### Hi there, I'm [Ductn][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm [Ductnn][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website](https://img.shields.io/website?label=ductn.info&style=for-the-badge&url=https://ductn.info)](https://ductn.info)
 
@@ -11,7 +11,7 @@
     <img src="./img/meow.gif">
 </p>
 
-<img alt="Docker" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/> &nbsp;Devops/Cloud Engineer. \
+<img alt="Docker" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/> &nbsp;DevOps/Cloud Engineer. \
 <img alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> &nbsp;Python Developer. \
 <img alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp;NodeJS Developer. \
 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects. \
