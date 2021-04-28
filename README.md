@@ -42,14 +42,14 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-<!-- ### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
     <a href="https://github.com/ductnn">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ductnn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ductnn&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-</p> -->
+</p>
 
 ### 🐱 &nbsp;Connect with me:
 
