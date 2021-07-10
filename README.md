@@ -1,4 +1,4 @@
-![Background](img/ductn.jpg)
+<!-- ![Background](img/ductn.jpg) -->
 
 ### Hi there, I'm [Ductnn][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -11,12 +11,12 @@
     <img src="./img/meow.gif">
 </p>
 
-<img alt="Docker" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/> &nbsp;DevOps/Cloud Engineer. \
+<!-- <img alt="Docker" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/> &nbsp;DevOps/Cloud Engineer. \
 <img alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> &nbsp;Python Developer. \
 <img alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp;NodeJS Developer. \
 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects. \
 🎧 &nbsp;Fun fact: I love to draw and play guitar. \
-📄 &nbsp;Look at my [Résumé](https://ductn.info/pdf/ductn_CV.pdf) for more details about me.
+📄 &nbsp;Look at my [Résumé](https://ductn.info/pdf/ductn_CV.pdf) for more details about me. -->
 
 <img align="right" alt="GIF" src="./img/code.gif" width="320" height="210" />
 
@@ -51,7 +51,7 @@
     </a>
 </p>
 
-### 🐱 &nbsp;Connect with me:
+### 📸 &nbsp;Connect with me:
 
 [<img align="left" alt="ductnn.github.io" width="22px" src="https://avatars.githubusercontent.com/u/22121217?s=400&u=b331f35d43e369366b36162c77b89437a83b7ca3&v=4" />][website]&nbsp;
 [<img align="left" alt="ductnn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
