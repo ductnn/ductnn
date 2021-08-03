@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> It has to be official, and it has to be urine.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 <br />
 
