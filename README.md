@@ -51,13 +51,14 @@
     </a>
 </p>
 
-## Quote for you 🏙 🌅 🌇 🌆
+## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
 > It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
 > <p>- Pam Beesly</p>
 
 <br />
+
 ### 📸 &nbsp;Connect with me:
 
 [<img align="left" alt="ductnn.github.io" width="22px" src="https://avatars.githubusercontent.com/u/22121217?s=400&u=b331f35d43e369366b36162c77b89437a83b7ca3&v=4" />][website]&nbsp;

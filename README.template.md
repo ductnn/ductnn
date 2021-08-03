@@ -51,13 +51,14 @@
     </a>
 </p>
 
-## Quote for you 🏙 🌅 🌇 🌆
+## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
 > {office_quote}
 >
 > <p>{office_character}</p>
 
 <br />
+
 ### 📸 &nbsp;Connect with me:
 
 [<img align="left" alt="ductnn.github.io" width="22px" src="https://avatars.githubusercontent.com/u/22121217?s=400&u=b331f35d43e369366b36162c77b89437a83b7ca3&v=4" />][website]&nbsp;
