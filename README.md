@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> Dwight, you ignorant slut!
 >
-> <p>- Angela Martin</p>
+> <p>- Michael Scott</p>
 
 <br />
 
