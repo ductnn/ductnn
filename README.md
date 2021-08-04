@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 <br />
 
