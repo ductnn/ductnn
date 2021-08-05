@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Sorry I annoyed you with my friendship.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Andy Bernard</p>
+> <p>- Kevin Malone</p>
 
 <br />
 
