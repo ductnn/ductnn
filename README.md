@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Gabe Lewis</p>
+> <p>- Kevin Malone</p>
 
 <br />
 
