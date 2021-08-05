@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
 >
-> <p>- Ryan Howard</p>
+> <p>- Erin Hannon</p>
 
 <br />
 
