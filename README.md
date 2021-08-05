@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Jim Halpert</p>
 
 <br />
 
