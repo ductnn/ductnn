@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I. Declare. Bankruptcy!
+> It has to be official, and it has to be urine.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 <br />
 
