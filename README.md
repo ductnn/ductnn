@@ -53,7 +53,7 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
