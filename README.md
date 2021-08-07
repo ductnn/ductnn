@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> Dwight, you ignorant slut!
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Michael Scott</p>
 
 <br />
 
