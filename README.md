@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 <br />
 
