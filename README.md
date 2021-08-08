@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Toby Flenderson</p>
+> <p>- Michael Scott</p>
 
 <br />
 
