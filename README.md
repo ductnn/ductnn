@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Michael Scott</p>
+> <p>- Oscar Martinez</p>
 
 <br />
 
