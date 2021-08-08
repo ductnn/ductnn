@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 <br />
 
