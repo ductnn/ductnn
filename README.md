@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> I. Declare. Bankruptcy!
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 <br />
 
