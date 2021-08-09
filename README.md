@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
 >
-> <p>- Pam Beesly</p>
+> <p>- Erin Hannon</p>
 
 <br />
 
