@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Did I stutter?
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Stanley Hudson</p>
+> <p>- Gabe Lewis</p>
 
 <br />
 
