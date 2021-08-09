@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
 >
-> <p>- Andy Bernard</p>
+> <p>- Erin Hannon</p>
 
 <br />
 
