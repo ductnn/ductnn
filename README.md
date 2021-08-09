@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Erin Hannon</p>
+> <p>- Kelly Kapoor</p>
 
 <br />
 
