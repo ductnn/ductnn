@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Bears, Beets, Battlestar Galactica.
+> Did I stutter?
 >
-> <p>- Jim Halpert</p>
+> <p>- Stanley Hudson</p>
 
 <br />
 
