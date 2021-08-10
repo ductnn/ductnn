@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> Did I stutter?
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Stanley Hudson</p>
 
 <br />
 
