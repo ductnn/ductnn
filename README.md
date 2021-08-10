@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I am immensely proud of what I did for that turtle!
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Kevin Malone</p>
+> <p>- Michael Scott</p>
 
 <br />
 
