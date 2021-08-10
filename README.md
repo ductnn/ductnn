@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Michael Scott</p>
+> <p>- Kevin Malone</p>
 
 <br />
 
