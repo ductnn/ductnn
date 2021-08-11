@@ -53,7 +53,7 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
 > <p>- Michael Scott</p>
 
