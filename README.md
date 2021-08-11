@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
