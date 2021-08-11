@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I have a lot of questions. Number one, how dare you?
+> There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Michael Scott</p>
 
 <br />
 
