@@ -53,7 +53,7 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 
