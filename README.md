@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> Did I stutter?
 >
-> <p>- Pam Beesly</p>
+> <p>- Stanley Hudson</p>
 
 <br />
 
