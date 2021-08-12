@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> It has to be official, and it has to be urine.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 <br />
 
