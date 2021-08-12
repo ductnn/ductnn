@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Bears, Beets, Battlestar Galactica.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Jim Halpert</p>
+> <p>- Phyllis Lapin</p>
 
 <br />
 
