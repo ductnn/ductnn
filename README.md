@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Bears, Beets, Battlestar Galactica.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Jim Halpert</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
