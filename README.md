@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Andy Bernard</p>
 
 <br />
 
