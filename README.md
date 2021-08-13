@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Jim Halpert</p>
 
 <br />
 
