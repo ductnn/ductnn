@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I have a lot of questions. Number one, how dare you?
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Michael Scott</p>
 
 <br />
 
