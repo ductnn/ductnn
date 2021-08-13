@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Jim Halpert</p>
+> <p>- Kelly Kapoor</p>
 
 <br />
 
