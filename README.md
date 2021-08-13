@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I have a lot of questions. Number one, how dare you?
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Angela Martin</p>
 
 <br />
 
