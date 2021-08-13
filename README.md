@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Andy Bernard</p>
+> <p>- Angela Martin</p>
 
 <br />
 
