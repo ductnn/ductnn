@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Darryl Philbin</p>
+> <p>- Gabe Lewis</p>
 
 <br />
 
