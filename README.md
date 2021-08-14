@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Bears, Beets, Battlestar Galactica.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Jim Halpert</p>
+> <p>- Andy Bernard</p>
 
 <br />
 
