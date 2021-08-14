@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Gabe Lewis</p>
 
 <br />
 
