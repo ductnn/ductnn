@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 <br />
 
