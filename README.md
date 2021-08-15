@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Andy Bernard</p>
 
 <br />
 
