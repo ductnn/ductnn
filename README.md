@@ -53,7 +53,7 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I. Declare. Bankruptcy!
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 
