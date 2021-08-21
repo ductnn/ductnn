@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 <br />
 
