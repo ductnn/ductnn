@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
 >
-> <p>- Pam Beesly</p>
+> <p>- Jim Halpert</p>
 
 <br />
 
