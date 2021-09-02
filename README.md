@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
