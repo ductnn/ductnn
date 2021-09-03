@@ -53,7 +53,7 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> I feel God in this Chili’s tonight.
 >
 > <p>- Pam Beesly</p>
 
