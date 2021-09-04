@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I feel God in this Chili’s tonight.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Pam Beesly</p>
+> <p>- Andy Bernard</p>
 
 <br />
 
