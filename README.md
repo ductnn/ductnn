@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Sorry I annoyed you with my friendship.
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 <br />
 
