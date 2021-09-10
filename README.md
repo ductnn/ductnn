@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
