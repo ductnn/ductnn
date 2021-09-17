@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
