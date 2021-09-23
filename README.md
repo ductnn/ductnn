@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I have a lot of questions. Number one, how dare you?
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Gabe Lewis</p>
 
 <br />
 
