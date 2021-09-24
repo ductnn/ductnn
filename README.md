@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Andy Bernard</p>
 
 <br />
 
