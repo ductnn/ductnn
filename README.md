@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Bears, Beets, Battlestar Galactica.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Jim Halpert</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
