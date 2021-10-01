@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Pam Beesly</p>
+> <p>- Kevin Malone</p>
 
 <br />
 
