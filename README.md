@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Oscar Martinez</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
