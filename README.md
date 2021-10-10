@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Did I stutter?
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Stanley Hudson</p>
+> <p>- Kevin Malone</p>
 
 <br />
 
