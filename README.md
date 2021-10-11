@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I am immensely proud of what I did for that turtle!
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Kevin Malone</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
