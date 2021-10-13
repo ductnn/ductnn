@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> It has to be official, and it has to be urine.
+> Everybody stay calm! Stay f*&#!#% calm!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 <br />
 
