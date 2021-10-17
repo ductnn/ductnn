@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Bears, Beets, Battlestar Galactica.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 <br />
 
