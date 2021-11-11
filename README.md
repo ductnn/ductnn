@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 <br />
 
