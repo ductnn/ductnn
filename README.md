@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Pam Beesly</p>
+> <p>- Kevin Malone</p>
 
 <br />
 
