@@ -1,4 +1,4 @@
-name: Update README
+name: CI
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -14,9 +14,11 @@ jobs:
         with:
           node-version: '15.x'
 
-      - run: yarn
+      - name: Install package
+        run: yarn
 
-      - run: node .
+      - name: Runn
+        run: node .
 
       - name: Add to git repo
         run: |
@@ -31,14 +33,3 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-  # update-readme-with-blog:
-  #   needs: get-office-quotes
-  #   name: Update this repo's README with latest blog posts
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #     - uses: gautamkrishnar/blog-post-workflow@master
-        # with:
-        #   # Replace this URL with your rss feed URL/s
-        #   feed_list: "https://braydoncoyer.dev/rss.xml"
