@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 <br />
 
