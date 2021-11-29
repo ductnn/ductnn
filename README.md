@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Michael Scott</p>
+> <p>- Kevin Malone</p>
 
 <br />
 
