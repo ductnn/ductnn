@@ -15,10 +15,10 @@ jobs:
           node-version: '15.x'
 
       - name: Install package
-        run: yarn
+        run: yarn install
 
-      - name: Runn
-        run: node .
+      - name: Start
+        run: yarn start
 
       - name: Add to git repo
         run: |
