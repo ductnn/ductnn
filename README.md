@@ -53,9 +53,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Michael Scott</p>
 
 <br />
 
