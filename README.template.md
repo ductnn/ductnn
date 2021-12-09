@@ -11,13 +11,13 @@
     <img src="./img/meow.gif">
 </p>
 
-### 💸 Shopping on my [store](https://golozone.com) 💳
+<!-- ### 💸 Shopping on my [store](https://golozone.com) 💳
 
 <p align="center">
     <a href="https://golozone.com">
         <img src="./img/store.png" width="500"/>
     </a>
-</p>
+</p> -->
 
 <img align="right" alt="GIF" src="./img/code.gif" width="320" height="210" />
 
