@@ -11,13 +11,13 @@
     <img src="./img/meow.gif">
 </p>
 
-### 💸 Shopping on my [store](https://golozone.com) 💳
+<!-- ### 💸 Shopping on my [store](https://golozone.com) 💳
 
 <p align="center">
     <a href="https://golozone.com">
         <img src="./img/store.png" width="500"/>
     </a>
-</p>
+</p> -->
 
 <img align="right" alt="GIF" src="./img/code.gif" width="320" height="210" />
 
@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
