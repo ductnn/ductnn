@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Jim Halpert</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
