@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Erin Hannon</p>
+> <p>- Angela Martin</p>
 
 <br />
 
