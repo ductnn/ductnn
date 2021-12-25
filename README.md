@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> If you pray enough, you can change yourself into a cat person.
+> It has to be official, and it has to be urine.
 >
-> <p>- Angela Martin</p>
+> <p>- Dwight Schrute</p>
 
 <br />
 
