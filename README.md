@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> It has to be official, and it has to be urine.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 <br />
 
