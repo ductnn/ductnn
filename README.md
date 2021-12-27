@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Michael Scott</p>
+> <p>- Oscar Martinez</p>
 
 <br />
 
