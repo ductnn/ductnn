@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Erin Hannon</p>
+> <p>- Phyllis Lapin</p>
 
 <br />
 
