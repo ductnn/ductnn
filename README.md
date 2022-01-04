@@ -54,7 +54,7 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> It has to be official, and it has to be urine.
 >
 > <p>- Dwight Schrute</p>
 
