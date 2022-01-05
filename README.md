@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> It has to be official, and it has to be urine.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 <br />
 
