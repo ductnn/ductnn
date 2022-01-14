@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Andy Bernard</p>
+> <p>- Kelly Kapoor</p>
 
 <br />
 
