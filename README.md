@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> I. Declare. Bankruptcy!
 >
-> <p>- Oscar Martinez</p>
+> <p>- Michael Scott</p>
 
 <br />
 
