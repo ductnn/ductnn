@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I. Declare. Bankruptcy!
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 <br />
 
