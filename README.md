@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Kevin Malone</p>
 
 <br />
 
