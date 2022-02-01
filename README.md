@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 <br />
 
