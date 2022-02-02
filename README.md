@@ -54,7 +54,7 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> I. Declare. Bankruptcy!
 >
 > <p>- Michael Scott</p>
 
