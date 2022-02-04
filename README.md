@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Did I stutter?
+> I. Declare. Bankruptcy!
 >
-> <p>- Stanley Hudson</p>
+> <p>- Michael Scott</p>
 
 <br />
 
