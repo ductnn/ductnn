@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Erin Hannon</p>
 
 <br />
 
