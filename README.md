@@ -54,7 +54,7 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I. Declare. Bankruptcy!
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
