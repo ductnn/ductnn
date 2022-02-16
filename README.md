@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
