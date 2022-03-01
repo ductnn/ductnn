@@ -54,7 +54,7 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Dwight, you ignorant slut!
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
 > <p>- Michael Scott</p>
 
