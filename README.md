@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> It has to be official, and it has to be urine.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
