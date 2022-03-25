@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I feel God in this Chili’s tonight.
+> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 <br />
 
