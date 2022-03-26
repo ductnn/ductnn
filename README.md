@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Did I stutter?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Stanley Hudson</p>
 
 <br />
 
