@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I. Declare. Bankruptcy!
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Michael Scott</p>
+> <p>- Andy Bernard</p>
 
 <br />
 
