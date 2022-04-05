@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Bears, Beets, Battlestar Galactica.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Jim Halpert</p>
+> <p>- Andy Bernard</p>
 
 <br />
 
