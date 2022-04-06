@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> Sorry I annoyed you with my friendship.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Andy Bernard</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
