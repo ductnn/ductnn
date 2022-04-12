@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I have a lot of questions. Number one, how dare you?
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Pam Beesly</p>
 
 <br />
 
