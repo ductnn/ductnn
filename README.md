@@ -54,9 +54,9 @@
 
 ## 🎥 Quote for you 🏙 🌅 🌇 🌆
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Oscar Martinez</p>
+> <p>- Angela Martin</p>
 
 <br />
 
