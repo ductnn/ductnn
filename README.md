@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=ductn.info&style=for-the-badge&url=https://ductn.info)](https://ductn.info) ![Profile views](https://gpvc.arturio.dev/ductnn)
 
-<img align="center" alt="ductn.info" src="https://flxt.tmsimg.com/assets/p10701949_b_v8_ah.jpg"/>
+<img align="center" alt="ductn.info" src="https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
