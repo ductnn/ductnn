@@ -13,7 +13,7 @@ async function main(){
     ).toString("utf-8");
 
     const anime_images = await (
-        await fetch("https://anime-facts-rest-api.herokuapp.com/api/v1")
+        await fetch("https://api-anime-images.herokuapp.com/api/v1")
     ).json();
 
     // console.log(anime_images);
