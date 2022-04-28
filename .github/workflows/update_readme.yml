@@ -4,7 +4,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 jobs:
-  get-office-quotes:
+  get-anime-images:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
