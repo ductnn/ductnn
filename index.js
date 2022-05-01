@@ -17,7 +17,7 @@ async function main(){
     ).json();
 
     // console.log(anime_images);
-    random_data = getRandom(1, 9)
+    random_data = getRandom(0, 9)
     console.log(random_data)
     console.log(anime_images.data[random_data].anime_img);
 
