@@ -17,12 +17,12 @@ async function main(){
     ).json();
 
     // console.log(anime_images);
-    random_data = getRandom(0, 9)
-    console.log(random_data)
-    console.log(anime_images.data[random_data].anime_img);
+    random_data_id = getRandom(0, 9)
+    console.log(random_data_id)
+    console.log(anime_images.data[random_data_id].anime_img);
 
     const readme = readme_template
-        .replace("{anime_images}", anime_images.data[random_data].anime_img)
+        .replace("{anime_images}", anime_images.data[random_data_id].anime_img)
 
     await fs.writeFile("README.md", readme);
 }
