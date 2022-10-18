@@ -1,19 +1,29 @@
-### Hi there, I'm [Ductnn][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514331/3037/gopher_coffee.gif?1643514331" width="30"/> Hello there! ʕ •`ᴥ•´ʔ</h1>
 
-[![Website](https://img.shields.io/website?label=ductn.info&style=for-the-badge&url=https://ductn.info)](https://ductn.info) ![Profile views](https://gpvc.arturio.dev/ductnn)
+<h3>I'm here !!! (｡◕‿◕｡)</h3>
 
-<img align="center" alt="ductn.info" src="https://wallpapercave.com/wp/wp5107543.jpg"/>
+```diff
+╭─[ubuntu] as ductnn in ~
+╰──➤ fetch
+@@i'm Duc Tran (ductnn)@@
+- trying to program something
++ i'm from Vietnam
+# and i like to linux. <3
+```
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-    <a href="https://github.com/ductnn">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ductnn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ductnn&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
+<h3>He He (° ͜ʖ͡°)</h3>
+<p>
+  <a href="https://twitter.com/ductn4" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/ductnn/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <br />
+  <a href="https://github.com/ductnn target="_blank">
+    <img alt="Go Bridge" src="https://pbs.twimg.com/profile_images/1100533079796600833/s5Krj_8A_400x400.jpg" height="80" />
+  </a>
+  <a href="https://ductn.info" target="_blank">
+    <img alt="Discord Gophers" src="https://cdn.discordapp.com/icons/118456055842734083/58e28cb37cb75fbda97b4bb5c3744d45.png" height="80" />
+  </a>
 </p>
-
-[website]: https://ductn.info
-[twitter]: https://twitter.com/ductn4
-[instagram]: https://instagram.com/ductn_
-[linkedin]: https://linkedin.com/in/ductnn
