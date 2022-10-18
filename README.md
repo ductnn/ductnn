@@ -20,7 +20,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <br />
-  <a href="https://github.com/ductnn target="_blank">
+  <a href="https://github.com/ductnn" target="_blank">
     <img alt="Go Bridge" src="https://pbs.twimg.com/profile_images/1100533079796600833/s5Krj_8A_400x400.jpg" height="80" />
   </a>
   <a href="https://ductn.info" target="_blank">
