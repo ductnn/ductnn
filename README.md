@@ -1,5 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514331/3037/gopher_coffee.gif?1643514331" width="30"/> Hello there! ʕ •`ᴥ•´ʔ</h1>
 
+![Profile views](https://gpvc.arturio.dev/ductnn)
+
 <h3>I'm here !!! (｡◕‿◕｡)</h3>
 
 ```diff
@@ -26,4 +28,11 @@
   <a href="https://ductn.info" target="_blank">
     <img alt="Discord Gophers" src="https://cdn.discordapp.com/icons/118456055842734083/58e28cb37cb75fbda97b4bb5c3744d45.png" height="80" />
   </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/ductnn">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ductnn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ductnn&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
 </p>
