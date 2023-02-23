@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  0 */4 * * *
+
+jobs:
+  build:
+    name: auto update
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@feat-terminal
+    - uses: liamg/github-profile-terminal-action@main
+      with:
+        twitter_username: ductn4
+        theme: dark
+        token: ${{ secrets. GITHUB_TOKEN }}
+        extra_repo: aquasecurity/tfsec
