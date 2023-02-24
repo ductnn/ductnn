@@ -1,38 +1,30 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514331/3037/gopher_coffee.gif?1643514331" width="30"/> Hello there! ʕ •`ᴥ•´ʔ</h1>
+![gifOS](os.gif)
 
-![Profile views](https://gpvc.arturio.dev/ductnn)
+[![Follow on Twitter](https://shields.io/twitter/follow/ductn4?label=Follow)](https://twitter.com/ductn4) 
+---
 
-<h3>I'm here !!! (｡◕‿◕｡)</h3>
+## Popular Repositories
+<table>
+<tr><td><a href="https://github.com/aquasecurity/tfsec">tfsec</a></td><td>Security scanner for your Terraform code</td><td align="center" width="12%">5629 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/domolo">domolo</a></td><td>A monitoring and logging solution for Docker hosts and containers with Prometheus, Grafana, Loki, cAdvisor, NodeExporter and alerting with AlertManager.</td><td align="center" width="12%">27 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/mongodb-cluster-docker">mongodb-cluster-docker</a></td><td>MongoDB Cluster on Docker</td><td align="center" width="12%">7 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/Dockerfile">Dockerfile</a></td><td>🐳  My custom Dockerfile</td><td align="center" width="12%">6 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/WSN_Fuzzy">WSN_Fuzzy</a></td><td>AN EFFICIENT ENERGY-AWARE ROUTING SCHEME FOR MULTI-HOP SENSOR NETWORKS</td><td align="center" width="12%">6 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/lookup">lookup</a></td><td>LOOKUP is a simple tool check IP informations, NS(Name Server), A records, MX records, ...</td><td align="center" width="12%">4 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/my-bash-script">my-bash-script</a></td><td>My bash script for ... something i learned</td><td align="center" width="12%">4 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/sorting_algorithm">sorting_algorithm</a></td><td>A simple python application to visualize sorting algorithms.</td><td align="center" width="12%">3 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/EFK-Stack-boilerplate">EFK-Stack-boilerplate</a></td><td>Implement EFK Stack on Kubernetes</td><td align="center" width="12%">3 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/Green-Rain">Green-Rain</a></td><td></td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/Simple-k8s-client">Simple-k8s-client</a></td><td>Simple k8s client with golang</td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/ductnn.github.io">ductnn.github.io</a></td><td>My Blog</td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/cUrls">cUrls</a></td><td>Simple tool crawler URLs form domain</td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/tinylb">tinylb</a></td><td>TinyLB is a simple Load Balancer written in Go</td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/web-tutorial">web-tutorial</a></td><td>How i learned about Web</td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/ductnn">ductnn</a></td><td>:octocat: Github Profile</td><td align="center" width="12%">2 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/klog">klog</a></td><td></td><td align="center" width="12%">1 :star:</td></tr>
+<tr><td><a href="https://github.com/ductnn/lba">lba</a></td><td>A go implementation of the balancing algorithm</td><td align="center" width="12%">1 :star:</td></tr>
+</table>
 
-```diff
-╭─[ubuntu] as ductnn in ~
-╰──➤ fetch
-@@i'm Duc Tran (ductnn)@@
-- trying to program something
-+ i'm from Vietnam
-# and i like to linux. <3
-```
 
-<h3>He He (° ͜ʖ͡°)</h3>
-<p>
-  <a href="https://twitter.com/ductn4" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> 
-  <a href="https://www.linkedin.com/in/ductnn/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <br />
-  <a href="https://github.com/ductnn" target="_blank">
-    <img alt="Go Bridge" src="https://pbs.twimg.com/profile_images/1100533079796600833/s5Krj_8A_400x400.jpg" height="80" />
-  </a>
-  <a href="https://ductn.info" target="_blank">
-    <img alt="Discord Gophers" src="https://cdn.discordapp.com/icons/118456055842734083/58e28cb37cb75fbda97b4bb5c3744d45.png" height="80" />
-  </a>
-</p>
 
-<p align="center">
-    <a href="https://github.com/ductnn">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ductnn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ductnn&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-</p>
+<sub><i>Automatically generated by [liamg/github-profile-terminal-action](https://github.com/liamg/github-profile-terminal-action) at Fri, 24 Feb 2023 18:03:20 UTC</i></sub>
