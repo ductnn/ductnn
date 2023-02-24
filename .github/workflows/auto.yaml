@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - feat-terminal
+      - master
 
 jobs:
   build:
@@ -17,4 +17,4 @@ jobs:
         twitter_username: ductn4
         theme: dark
         token: ${{ secrets. GITHUB_TOKEN }}
-        extra_repo: aquasecurity/tfsec
+        extra_repo: grafana/loki
